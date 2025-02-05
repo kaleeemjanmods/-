@@ -1,61 +1,50 @@
-Skip to content
-Navigation Menu
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=KALEEM-MD-BOT" alt="Typing SVG" /></a>
+  </p>
 
-Code
-Issues
-You’re making changes in a project you don’t have write access to. Submitting a change will write it to a new branch in your fork kaleeemjanmods/Arch-md, so you can send a pull request.
-Arch-md
-/
-README.md
-in
-main
-
-Edit
-
-Preview
-Indent mode
-
-Spaces
-Indent size
-
-2
-Line wrap mode
-
-Soft wrap
-Editing README.md file contents
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-<p align="center"> 
-<a href="https://github.com/Ednut001"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=ARCH-+MD+by+Ednut+2024+best+repository.+%F0%9F%92%96" height="90px"></a> 
+<p align="center">
+  <h1 align="center">KALEEM-MD 3.0</h1>
 </p>
+
+> **`Updated` The Version 3.0**
+
+---
+<p align="center">
+  <a href="https://github.com/Awais-star-a11y">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=KALEEM-MD-+v3.0+MultiDevice;Developed+by+AwaisMd;Give+star+and+forks+this+Repo+🌟" alt="Panhwar110Readme">
+  </a>
+</p>
+
+<a><img src='https://qu.ax/QkpAj.jpg'/></a>
+
+
+<img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"> KALEEM-MD </h1> 
+<p align="center">KALEEM-MD made for people, on Earth </p>
+
  
+   
 <p align="center">
-<img src="https://files.catbox.moe/pyy3ar.jpg" alt="KALEEM-MD" width="800"/>
+ <h2>WhatsApp channel</h2>
+  <a href="https://whatsapp.com/channel/0029Vaw6hp035fLlshIEeR1A" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Join Whatsapp Channel For Updates-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ 
 
+
+
+<p align="center"> KALEEM-MD uses
+  <a href="https://github.com/WhiskeySockets/Baileys)**">Multi-Device Baileys.</a>
+</p>
+<p align="center">
+  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
 </p>
 
-<p align="center">
-<a href="#"><img title=KALEEM"KALEEM-MD" src="https://img.shields.io/badge/DONT FORGET TO LEAVE A STAR 🌟 ¡THANKS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-</p>
+    
 
-<p align="center">   
-<a href="https://github.com/Ednut001/Arch-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Ednut001/Arch-Md?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Ednut001/Arch-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Ednut001/Arch-Md?label=Stars&color=yellow&style=flat-square"></a>
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-
+1. Link your WhatsApp by [`PAIR CODE`](https://awais-md-pair.onrender.com)
+2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
+3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Awais-star-a11y/KALEEM-MD-V3)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
